@@ -1,0 +1,20 @@
+{
+	"faction": "MadokaMagica",
+	"contact": "https://discord.gg/madoka",
+	"templates": [
+		{
+			"name": "MadoHomu",
+			"sources": [
+				"https://raw.githubusercontent.com/Yay295/reddit-place-madoka-2023/main/MadoHomu.png"
+			],
+			"x": 1001,
+			"y": 638
+		}
+	],
+	"whitelist": [
+		{
+			"name": "Taylor Swift",
+			"url": "https://raw.githubusercontent.com/RPGreen46/ts-place/main/template.json"
+		}
+	]
+}
