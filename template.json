@@ -13,6 +13,12 @@
 	],
 	"whitelist": [
 		{
+			"name": "/r/AmericanFlagInPlace",
+			"url": "https://afip.us/template/template8.json"
+		}, {
+			"name": "My Little Pony",
+			"url": "https://ponyplace.z19.web.core.windows.net/mlp/endu_template.json"
+		}, {
 			"name": "Omori",
 			"url": "https://raw.githubusercontent.com/sunryze-git/omoriplace2023/main/omoriplace.json"
 		}, {
