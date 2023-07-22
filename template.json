@@ -9,6 +9,13 @@
 			],
 			"x": 1001,
 			"y": 1138
+		}, {
+			"name": "OuterGodoka",
+			"sources": [
+				"https://raw.githubusercontent.com/Yay295/reddit-place-madoka-2023/main/OuterGodoka.png"
+			],
+			"x": 550,
+			"y": 250
 		}
 	],
 	"whitelist": [
