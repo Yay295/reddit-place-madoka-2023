@@ -32,6 +32,9 @@
 			"name": "Outer Wilds",
 			"url": "https://raw.githubusercontent.com/souleaub/TGR_Overlay/main/outer_wilds.json"
 		}, {
+			"name": "Stargate",
+			"url": "https://raw.githubusercontent.com/PitchforkAssistant/r-place-stargate-template/main/2023/stargate.json"
+		}, {
 			"name": "Taylor Swift",
 			"url": "https://raw.githubusercontent.com/RPGreen46/ts-place/main/template.json"
 		}, {
