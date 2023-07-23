@@ -23,6 +23,9 @@
 			"name": "/r/AmericanFlagInPlace",
 			"url": "https://afip.us/template/template8.json"
 		}, {
+			"name": "Italy",
+			"url": "https://raw.githubusercontent.com/italyplace/rplace/main/template.json"
+		}, {
 			"name": "My Little Pony",
 			"url": "https://ponyplace.z19.web.core.windows.net/mlp/endu_template.json"
 		}, {
