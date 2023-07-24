@@ -16,6 +16,13 @@
 			],
 			"x": 1800,
 			"y": 1747
+		}, {
+			"name": "Iroha",
+			"sources": [
+				"https://raw.githubusercontent.com/Yay295/reddit-place-madoka-2023/main/Iroha.png"
+			],
+			"x": 1974,
+			"y": 1872
 		}
 	],
 	"whitelist": [
